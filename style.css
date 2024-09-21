@@ -31,6 +31,8 @@
     height: 820px;
     background-image: url(/img/background.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 -100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
