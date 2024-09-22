@@ -96,7 +96,7 @@ a.link-to-book:hover {
 
 .carousel-item img {
     object-fit: cover;
-    background-position: 0 -250px;
+    background-position: 0 -500px;
 }
 
 .row-flex {
