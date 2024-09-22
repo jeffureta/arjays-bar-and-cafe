@@ -61,6 +61,7 @@
 
 .about-section {
     display: flex;
+    justify-content: center;
     align-items: center;
     background-color: #f3f3f3c0;
     padding: 50px 30px;
