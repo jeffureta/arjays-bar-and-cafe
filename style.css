@@ -92,8 +92,10 @@ a.link-to-book:hover {
 
 .carousel-inner {
     height: 700px;
-    background-size: cover;
-    background-repeat: no-repeat;
+}
+
+.carousel-item img {
+    object-fit: cover;
     background-position: 0 -250px;
 }
 
