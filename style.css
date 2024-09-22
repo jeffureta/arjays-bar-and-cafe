@@ -92,6 +92,9 @@ a.link-to-book:hover {
 
 .carousel-inner {
     height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 -250px;
 }
 
 .row-flex {
