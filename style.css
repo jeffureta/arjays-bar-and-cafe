@@ -94,15 +94,15 @@
 .link-to-book {
     color: #ffffff;
     display: block;
-    border: 2px solid #ffffff;
-    padding: 5px 10px;
+/*     border: 2px solid #ffffff; */
+/*     padding: 5px 10px; */
 }
 
-a.link-to-book:hover {
+/* a.link-to-book:hover {
     background-color: #ffffff;
     color: #95999e;
     text-decoration: none;
-}
+} */
 
 .about-section p,
 .about-section h3 {
